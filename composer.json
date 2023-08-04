@@ -1,7 +1,7 @@
 {
     "name": "satoritech44/upload-files",
     "description": "Service for upload files and delete them",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {

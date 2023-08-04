@@ -4,8 +4,9 @@ Use when you want to upload an image or file and get url
 
 ## Use in Controller
 * Add use
+```php
 use Satoritech44\UploadFiles\UploadFiles;
-
+```
 * inside method
   ```php
   $file=$request->file('img');
